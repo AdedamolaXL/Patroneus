@@ -1,7 +1,8 @@
-# patronus
+# PATRONEUS
 
 ## 1. Project/Purpose
 The Investment DAO is the final phase in our roll-out services and it's expected outcome of an income-generating community in the marketplace that have fostered camaraderie,collaboration and community building. At this stage member-patrons can pool their resources together and use it to invest in specific socio-political caus and projects that have been identified to be fitting with the community ethos. 
+Patroneus is an art investment DAO with a focus on art collection. Patron members pool their resources to collect unique art pieces, support unique artists and causes + even contribute into art institutions. with a focus on protecting the cultural heritage of the burgeoning digital art scene/industry.
   
 ## 2. Problem
 **Problem Statement**: Building a DAO focused on art investements
