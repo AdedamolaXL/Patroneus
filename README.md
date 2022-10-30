@@ -16,12 +16,15 @@ Community members as patrons form an investment group (DA0). Investment pools is
   * invest profits from art-sales in liquidity pools designed to pay back members through automatic payouts.
   
 ## 4. Why Now?
-Why not now? Now, we have the power of 
+Why not now? Now, we have the power of community and blockchain to collectively acquire expensive artworks. Apart from the fact that art is an asset that accrues profit over time, this also makes it easier for people to support and push minority artists out there.
+
 ## 5. Market Size
 Our focus group is the the Millennial - Gen Z generation who possess financial, social resources alongside tech-savviness to navigate the internet. We believe our product and services are self-marketing on their own due to their attractiveness and usefulness to the community. Nevertheless, we aim to use the full power of social media to network and market ourselves using Tik-Tok, You-tube, Instagram, Twitter, etc to engage meaningful discussions and content around art.
  * Community Discovery : Reddit, Twitter, Instagram, Youtube
  * Cmmunity Engagement – Discords, Blogs
  * Cmmunity Activation – Patreon, Twitch
+ 
+ The total population of people who fall within the Gen Z and Millenial generations are 4.9B. From that 4.9B, we project that people betwen 18 and 35 will be financially able to collaborate to own artworks - that is about 3B. However, our obtainable market size would be , who are web3 savvy.  
  
 ## 6. Challenges & Recommendation
 * Risk of failure or low adoption of the online learning platform, perharps due to poor learning tools or low reach or attractiveness towards potential learners 
