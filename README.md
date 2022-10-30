@@ -19,6 +19,8 @@ Community members as patrons form an investment group (DA0). Investment pools is
 Why not now? Now, we have the power of community and blockchain to collectively acquire expensive artworks. Apart from the fact that art is an asset that accrues profit over time, this also makes it easier for people to support and push minority artists out there.
 
 ## 5. Market Size
+Currently, the global web3 market size is expected to be valued at US$ 13.4 billion (TAM) by the end of 2022. About
+
 Our focus group is the the Millennial - Gen Z generation who possess financial, social resources alongside tech-savviness to navigate the internet. We believe our product and services are self-marketing on their own due to their attractiveness and usefulness to the community. Nevertheless, we aim to use the full power of social media to network and market ourselves using Tik-Tok, You-tube, Instagram, Twitter, etc to engage meaningful discussions and content around art.
  * Community Discovery : Reddit, Twitter, Instagram, Youtube
  * Cmmunity Engagement – Discords, Blogs
